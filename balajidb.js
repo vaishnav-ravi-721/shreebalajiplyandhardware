@@ -1334,8 +1334,211 @@ const PRODUCTS = {
         "packing" : "1set",
         "brand" : "balaji",
         "inStock" : "5"
-    },   
+    },
+    //Handles
+    "4inch sonata handle" : {
+        "image" : "sonatahandle.jpg",
+        "price" : "50",
+        "unit" : "pc",
+        "purchasePrice" : "22",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "sonata",
+        "inStock" : "5"
+    },
+    "6inch sonata handle" : {
+        "image" : "sonatahandle.jpg",
+        "price" : "80",
+        "unit" : "pc",
+        "purchasePrice" : "32",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "sonata",
+        "inStock" : "5"
+    },
+    "8inch sonata handle" : {
+        "image" : "sonatahandle.jpg",
+        "price" : "120",
+        "unit" : "pc",
+        "purchasePrice" : "42",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "sonata",
+        "inStock" : "5"
+    },
+    "4inch news handle" : {
+        "image" : "newshandle.jpg",
+        "price" : "50",
+        "unit" : "pc",
+        "purchasePrice" : "28",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "New-s",
+        "inStock" : "5"
+    },
+    "6inch news handle" : {
+        "image" : "newshandle.jpg",
+        "price" : "80",
+        "unit" : "pc",
+        "purchasePrice" : "38",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "New-s",
+        "inStock" : "5"
+    },
+    "8inch news handle" : {
+        "image" : "newshandle.jpg",
+        "price" : "120",
+        "unit" : "pc",
+        "purchasePrice" : "48",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "New-s",
+        "inStock" : "5"
+    },
+    "4inch civic handle" : {
+        "image" : "civichandle.jpg",
+        "price" : "50",
+        "unit" : "pc",
+        "purchasePrice" : "26",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "Civic",
+        "inStock" : "5"
+    },
+    "6inch civic handle" : {
+        "image" : "civichandle.jpg",
+        "price" : "80",
+        "unit" : "pc",
+        "purchasePrice" : "36",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "Civic",
+        "inStock" : "5"
+    },
+    "8inch civic handle" : {
+        "image" : "civichandle.jpg",
+        "price" : "120",
+        "unit" : "pc",
+        "purchasePrice" : "46",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "Civic",
+        "inStock" : "5"
+    },
+    "4inch jetta handle" : {
+        "image" : "jettahandle.jpeg",
+        "price" : "50",
+        "unit" : "pc",
+        "purchasePrice" : "30",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "Jetta",
+        "inStock" : "5"
+    },
+    "6inch jetta handle" : {
+        "image" : "jettahandle.jpeg",
+        "price" : "80",
+        "unit" : "pc",
+        "purchasePrice" : "40",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "Jetta",
+        "inStock" : "5"
+    },
+    "8inch jetta handle" : {
+        "image" : "jettahandle.jpeg",
+        "price" : "120",
+        "unit" : "pc",
+        "purchasePrice" : "55",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "Jetta",
+        "inStock" : "5"
+    },
+    "4inch mark handle" : {
+        "image" : "markhandle.jpg",
+        "price" : "50",
+        "unit" : "pc",
+        "purchasePrice" : "22",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "Mark",
+        "inStock" : "5"
+    },
+    "6inch mark handle" : {
+        "image" : "markhandle.jpg",
+        "price" : "80",
+        "unit" : "pc",
+        "purchasePrice" : "32",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "Mark",
+        "inStock" : "5"
+    },
+    "8inch mark handle" : {
+        "image" : "markhandle.jpg",
+        "price" : "120",
+        "unit" : "pc",
+        "purchasePrice" : "42",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "Mark",
+        "inStock" : "5"
+    },
+    "4inch 2 way cansil handle" : {
+        "image" : "2wayhandle.jpg",
+        "price" : "70",
+        "unit" : "pc",
+        "purchasePrice" : "40",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "2-way cansil",
+        "inStock" : "5"
+    },
+    "6inch 2 way cansil handle" : {
+        "image" : "2wayhandle.jpg",
+        "price" : "100",
+        "unit" : "pc",
+        "purchasePrice" : "50",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "2-way cansil",
+        "inStock" : "5"
+    },
+    "8inch 2 way cansil handle" : {
+        "image" : "2wayhandle.jpg",
+        "price" : "140",
+        "unit" : "pc",
+        "purchasePrice" : "60",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "2-way cansil",
+        "inStock" : "5"
+    },
+    "10inch 2 way cansil handle" : {
+        "image" : "2wayhandle.jpg",
+        "price" : "160",
+        "unit" : "pc",
+        "purchasePrice" : "70",
+        "purchaseUnit" : "pc",
+        "packing" : " 1pc",
+        "brand" : "2-way cansil",
+        "inStock" : "5"
+    },
+    "mushroom knob SS finish" : {
+        "image" : "mushknob.jpg",
+        "price" : "60",
+        "unit" : "pc",
+        "purchasePrice" : "25",
+        "purchaseUnit" : "pc",
+        "packing" : "1pc",
+        "brand" : "knob",
+        "inStock" : "5"
+    },
+    
 
+    
     
     
 /* "" : {
