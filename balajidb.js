@@ -1536,7 +1536,66 @@ const PRODUCTS = {
         "brand" : "knob",
         "inStock" : "5"
     },
-    
+    "1 x 1 lpatti" : {
+        "image" : "lpatti.jpg",
+        "price" : "",
+        "unit" : "",
+        "purchasePrice" : "",
+        "purchaseUnit" : "",
+        "packing" : "",
+        "brand" : "",
+        "inStock" : "5"
+    },
+    "1 x 1 lpatti Zinc polish" : {
+        "image" : "zinclpatti.jpg",
+        "price" : "",
+        "unit" : "",
+        "purchasePrice" : "",
+        "purchaseUnit" : "",
+        "packing" : "",
+        "brand" : "",
+        "inStock" : "5"
+    },
+    "2 x 1 lpatti Zinc polish" : {
+        "image" : "2lpatti.jpg",
+        "price" : "",
+        "unit" : "",
+        "purchasePrice" : "",
+        "purchaseUnit" : "",
+        "packing" : "",
+        "brand" : "",
+        "inStock" : "5"
+    },
+    "SS self button single screw" : {
+        "image" : "ssselfbbutton.jpg",
+        "price" : "12",
+        "unit" : "pc",
+        "purchasePrice" : "3.55",
+        "purchaseUnit" : "pc",
+        "packing" : "10pc",
+        "brand" : "alcott",
+        "inStock" : "5"
+    },
+    "SS self button double screw" : {
+        "image" : "ssselfbbutton2.jpg",
+        "price" : "",
+        "unit" : "",
+        "purchasePrice" : "",
+        "purchaseUnit" : "",
+        "packing" : "",
+        "brand" : "",
+        "inStock" : "5"
+    },
+    "self button acrylic" : {
+        "image" : "acrylicselfbutton.jpg",
+        "price" : "",
+        "unit" : "",
+        "purchasePrice" : "",
+        "purchaseUnit" : "",
+        "packing" : "",
+        "brand" : "",
+        "inStock" : "5"
+    },
 
     
     
